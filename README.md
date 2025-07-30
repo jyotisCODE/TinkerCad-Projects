@@ -9,4 +9,5 @@ Daily circuit assignments using TinkerCAD
 - Day 4 - [Smart Door Lock](https://www.tinkercad.com/things/2NMB3SHyeeF-smart-door-lock)
 - Day 5 - [Traffic Light System Simulation](https://www.tinkercad.com/things/iazrWSzyrUF-traffic-light-system-simulation-)
 - Day 6 - [Fire Alarm Simulation using Temp and Gas Sensors](https://www.tinkercad.com/things/7nzcweylh7h-fire-alarm-system)
-- Day 7 - [Soil Moisture Sensor](https://www.tinkercad.com/things/eFH5IeJGUXf-soil-moisture-monitor-)
+- Day 7 - [Touchless Doorbell System](https://www.tinkercad.com/things/fjHirrQ8STC-touchless-doorbell-system-)
+- Day 8 - [Soil Moisture Sensor](https://www.tinkercad.com/things/eFH5IeJGUXf-soil-moisture-monitor-)
