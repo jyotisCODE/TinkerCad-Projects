@@ -8,3 +8,4 @@ Daily circuit assignments using TinkerCAD
 - Day 3 - [Smart Street Light with Motion Sensor](https://www.tinkercad.com/things/2MGrL9PPHD6-smart-street-light-with-motion-sensor)
 - Day 4 - [Smart Door Lock](https://www.tinkercad.com/things/2NMB3SHyeeF-smart-door-lock)
 - Day 5 - [Traffic Light System Simulation](https://www.tinkercad.com/things/iazrWSzyrUF-traffic-light-system-simulation-)
+- Day 6 - [Fire Alarm Simulation using Temp and Gas Sensors](https://www.tinkercad.com/things/7nzcweylh7h-fire-alarm-system)
