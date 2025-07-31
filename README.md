@@ -11,3 +11,4 @@ Daily circuit assignments using TinkerCAD
 - Day 6 - [Fire Alarm Simulation using Temp and Gas Sensors](https://www.tinkercad.com/things/7nzcweylh7h-fire-alarm-system)
 - Day 7 - [Touchless Doorbell System](https://www.tinkercad.com/things/fjHirrQ8STC-touchless-doorbell-system-)
 - Day 8 - [Soil Moisture Sensor](https://www.tinkercad.com/things/eFH5IeJGUXf-soil-moisture-monitor-)
+- Day 9 - [Ultrasonic Distance Meter](https://www.tinkercad.com/things/6B8pBNdkXkX-ultrasonic-distance-meter-)
