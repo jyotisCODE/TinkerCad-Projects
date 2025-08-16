@@ -18,5 +18,5 @@ Daily circuit assignments using TinkerCAD
 - Day 13 - [Tilt Detection](https://www.tinkercad.com/things/3xqegxJYan7-tilt-detection)
 - Day 14 - [Digital Dice](https://www.tinkercad.com/things/jcoDbkZjOJb-digital-dice)
 - Day 15 - [Morse Code Translator 1.0](https://www.tinkercad.com/things/bGpItrFGnSv-morse-code-translator-10-basic)
-- Day 16 - [Mini Piano]
+- Day 16 - [Mini Piano 1.0](https://www.tinkercad.com/things/bGWiPlmJLMp-mini-piano)
 
