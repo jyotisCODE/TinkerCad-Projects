@@ -15,5 +15,6 @@ Daily circuit assignments using TinkerCAD
 - Day 10 - [Clap Activated Device - using a Pushbutton](https://www.tinkercad.com/things/lBgkgfxlOhY-clap-activated-device-simulated-with-button)
 - Day 11 - [Greenhouse Monitoring System](https://www.tinkercad.com/things/ebrDu1c4deB-greenhouse-monitoring-system)
 - Day 12 - [Ultrasonic Distance Meter 2.0](https://www.tinkercad.com/things/hmif6w8t1Ae-ultrasonic-distance-meter-20)
-- Day 13 - [Tilt Detection](https://www.tinkercad.com/things/3xqegxJYan7-tilt-detection) 
+- Day 13 - [Tilt Detection](https://www.tinkercad.com/things/3xqegxJYan7-tilt-detection)
+- Day 14 - [Digital Dice](https://www.tinkercad.com/things/jcoDbkZjOJb-digital-dice)
 
